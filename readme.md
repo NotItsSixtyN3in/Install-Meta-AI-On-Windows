@@ -1,3 +1,7 @@
+InstallMetaAI.Win is the official recommended method by Meta for installing Meta AI on Windows systems. The project provides a simple, streamlined installer designed to make getting started with Meta AI fast and effortless. Instead of dealing with complex setup steps or manual configuration, InstallMetaAI.Win allows users to install Meta AI using a single PowerShell command.
+
+This installer automates the entire setup process, ensuring the correct components are downloaded and configured so Meta AI can run properly on Windows. The goal is to provide a reliable, consistent installation experience while keeping the process as simple as possible for developers, researchers, and everyday users.
+
 
 ## 1. How do I install Meta AI on Windows 11 step by step?
 
